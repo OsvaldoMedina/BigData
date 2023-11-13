@@ -1,3 +1,4 @@
-Soluciones_Ejercicios/data/stocks_price_final.csv
-Soluciones_Ejercicios/data/WorldCupPlayers.csv
-2. Analitica Avanzada/data/stocks_price_final.csv
+Soluciones_Ejercicios/data/*
+2. Analitica Avanzada/data/*
+4. Spark_ML_Koalas/data/*
+5. Apache Spark Streaming/data/*
